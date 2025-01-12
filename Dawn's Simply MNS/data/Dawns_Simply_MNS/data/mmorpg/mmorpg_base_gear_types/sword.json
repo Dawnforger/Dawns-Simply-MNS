@@ -1,0 +1,197 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 8.0,
+      "min": 4.0,
+      "stat": "weapon_damage"
+    }
+  ],
+  "gear_slot": "sword",
+  "guid": "sword",
+  "possible_items": [
+    {
+      "item_id": "minecraft:wooden_sword",
+      "min_rar": "common",
+      "weight": 1
+    },
+    {
+      "item_id": "minecraft:stone_sword",
+      "min_rar": "uncommon",
+      "weight": 10
+    },
+    {
+      "item_id": "minecraft:iron_sword",
+      "min_rar": "rare",
+      "weight": 100
+    },
+    {
+      "item_id": "minecraft:diamond_sword",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+    {
+      "item_id": "minecraft:netherite_sword",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:iron_longsword",
+      "min_rar": "common",
+      "weight": 1
+    },
+    {
+      "item_id": "simplyswords:gold_longsword",
+      "min_rar": "uncommon",
+      "weight": 10
+    },
+    {
+      "item_id": "simplyswords:diamond_longsword",
+      "min_rar": "rare",
+      "weight": 100
+    },
+    {
+      "item_id": "simplyswords:netherite_longsword",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	{
+      "item_id": "simplyswords:runic_longsword",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:iron_rapier",
+      "min_rar": "common",
+      "weight": 1
+    },
+    {
+      "item_id": "simplyswords:gold_rapier",
+      "min_rar": "uncommon",
+      "weight": 10
+    },
+    {
+      "item_id": "simplyswords:diamond_rapier",
+      "min_rar": "rare",
+      "weight": 100
+    },
+    {
+      "item_id": "simplyswords:netherite_rapier",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	{
+      "item_id": "simplyswords:runic_rapier",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:iron_katana",
+      "min_rar": "common",
+      "weight": 1
+    },
+    {
+      "item_id": "simplyswords:gold_katana",
+      "min_rar": "uncommon",
+      "weight": 10
+    },
+    {
+      "item_id": "simplyswords:diamond_katana",
+      "min_rar": "rare",
+      "weight": 100
+    },
+    {
+      "item_id": "simplyswords:netherite_katana",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	{
+      "item_id": "simplyswords:runic_katana",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:iron_cutlass",
+      "min_rar": "common",
+      "weight": 1
+    },
+    {
+      "item_id": "simplyswords:gold_cutlass",
+      "min_rar": "uncommon",
+      "weight": 10
+    },
+    {
+      "item_id": "simplyswords:diamond_cutlass",
+      "min_rar": "rare",
+      "weight": 100
+    },
+    {
+      "item_id": "simplyswords:netherite_cutlass",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	{
+      "item_id": "simplyswords:bramblethorn",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:toxic_longsword",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:emberblade",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:shadowsting",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:dormant_relic",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:righteous_relic",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:tainted_relic",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:sunfire",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:harbinger",
+      "min_rar": "mythic",
+      "weight": 10000
+    }
+  ],
+  "req": {
+    "base_req": {},
+    "scaling_req": {
+      "strength": 0.4
+    }
+  },
+  "style": "STR",
+  "tags": {
+    "tags": [
+      "dexterity",
+      "sword",
+      "strength",
+      "melee_weapon",
+      "weapon_family"
+    ]
+  },
+  "weapon_type": "sword",
+  "weight": 1000
+}

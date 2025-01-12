@@ -1,0 +1,79 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 12.0,
+      "min": 6.0,
+      "stat": "weapon_damage"
+    },
+	{
+	  "type": "FLAT",
+	  "max": 9.0,
+	  "min": 4.5,
+	  "stat": "mana_on_basic_hit"
+	}
+  ],
+  "gear_slot": "scythe",
+  "guid": "scythe",
+  "possible_items": [
+    {
+      "item_id": "simplyswords:iron_scythe",
+      "min_rar": "common",
+      "weight": 1
+    },
+    {
+      "item_id": "simplyswords:gold_scythe",
+      "min_rar": "uncommon",
+      "weight": 10
+    },
+    {
+      "item_id": "simplyswords:diamond_scythe",
+      "min_rar": "rare",
+      "weight": 100
+    },
+    {
+      "item_id": "simplyswords:netherite_scythe",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	{
+      "item_id": "simplyswords:runic_scythe",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:soulrender",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:decaying_relic",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "simplyswords:magiscythe",
+      "min_rar": "mythic",
+      "weight": 10000
+    }
+  ],
+  "req": {
+    "base_req": {},
+    "scaling_req": {
+      "intelligence": 0.6
+    }
+  },
+  "style": "INT",
+  "tags": {
+    "tags": [
+      "mage_weapon",
+      "staff",
+      "weapon_family",
+      "melee_weapon",
+      "intelligence",
+	  "two_handed"
+    ]
+  },
+  "weapon_type": "scythe",
+  "weight": 1000
+}
